@@ -9,7 +9,7 @@ Currently working as a Data Analyst at **Grupo Falabella**
 
 ## About me
 
-I'm passionate about leveraging data to solve real-world problems — from predictive modeling and machine learning to statistical analysis. My academic and professional experience spans education analytics, retail, and applied econometrics.
+I'm passionate about leveraging data to solve real-world problems from predictive modeling and machine learning to statistical analysis. My academic and professional experience spans education analytics, retail, and applied econometrics.
 
 ---
 
