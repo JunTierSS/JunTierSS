@@ -47,6 +47,7 @@ I'm passionate about leveraging data to solve real-world problems — from predi
 | [Machine Learning](https://github.com/JunTierSS/aprendizaje-de-maquinas) | Course assignments: classification, regression and model evaluation | Python, Scikit-learn |
 | [Data Science](https://github.com/JunTierSS/ciencia-de-datos) | Causal inference and applied econometrics with regression discontinuity | Python, R |
 | [MDS Programming Labs](https://github.com/JunTierSS/LabProgramacionMDS) | Programming labs: Pandas, PySpark, MLOps, clustering and forecasting | Python |
+| [DeFi Liquidation Risk Prediction](https://github.com/JunTierSS/proyecto-bci) | Predicting liquidation risk in DeFi protocols using on-chain wallet behavior and market indicators — AUC 0.90 | Python, XGBoost, LightGBM |
 
 ---
 
