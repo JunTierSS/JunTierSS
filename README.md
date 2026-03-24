@@ -44,9 +44,7 @@ I'm passionate about leveraging data to solve real-world problems — from predi
 | Project | Description | Stack |
 |---|---|---|
 | [Student Dropout Prediction](https://github.com/JunTierSS/Proyecto-Mineduc-Desercion-en-educacion-superior) | Predicting dropout rates in technical higher education using open MINEDUC data | Python, XGBoost |
-| [Machine Learning](https://github.com/JunTierSS/aprendizaje-de-maquinas) | Course assignments: classification, regression and model evaluation | Python, Scikit-learn |
-| [Data Science](https://github.com/JunTierSS/ciencia-de-datos) | Causal inference and applied econometrics with regression discontinuity | Python, R |
-| [MDS Programming Labs](https://github.com/JunTierSS/LabProgramacionMDS) | Programming labs: Pandas, PySpark, MLOps, clustering and forecasting | Python |
+| MDS Coursework — [ML](https://github.com/JunTierSS/aprendizaje-de-maquinas) · [Data Science](https://github.com/JunTierSS/ciencia-de-datos) · [Programming Labs](https://github.com/JunTierSS/LabProgramacionMDS) | Classification, causal inference, econometrics, MLOps and forecasting | Python, R, Scikit-learn |
 | [DeFi Liquidation Risk Prediction](https://github.com/JunTierSS/proyecto-bci) | Predicting liquidation risk in DeFi protocols using on-chain wallet behavior and market indicators — AUC 0.90 | Python, XGBoost, LightGBM |
 
 ---
