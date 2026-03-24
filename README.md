@@ -43,10 +43,10 @@ I'm passionate about leveraging data to solve real-world problems — from predi
 
 | Project | Description | Stack |
 |---|---|---|
-| [Deserción en Educación Superior](https://github.com/JunTierSS/Proyecto-Mineduc-Desercion-en-educacion-superior) | Predicción de deserción estudiantil en educación técnico profesional con datos MINEDUC | Python, XGBoost |
-| [Aprendizaje de Máquinas](https://github.com/JunTierSS/aprendizaje-de-maquinas) | Tareas del curso: clasificación, regresión y evaluación de modelos | Python, Scikit-learn |
-| [Ciencia de los Datos](https://github.com/JunTierSS/ciencia-de-datos) | Análisis causal y econometría aplicada con regresión discontinua | Python, R |
-| [Lab Programación MDS](https://github.com/JunTierSS/LabProgramacionMDS) | Labs de programación: Pandas, PySpark, MLOps, clustering y forecasting | Python |
+| [Student Dropout Prediction](https://github.com/JunTierSS/Proyecto-Mineduc-Desercion-en-educacion-superior) | Predicting dropout rates in technical higher education using open MINEDUC data | Python, XGBoost |
+| [Machine Learning](https://github.com/JunTierSS/aprendizaje-de-maquinas) | Course assignments: classification, regression and model evaluation | Python, Scikit-learn |
+| [Data Science](https://github.com/JunTierSS/ciencia-de-datos) | Causal inference and applied econometrics with regression discontinuity | Python, R |
+| [MDS Programming Labs](https://github.com/JunTierSS/LabProgramacionMDS) | Programming labs: Pandas, PySpark, MLOps, clustering and forecasting | Python |
 
 ---
 
