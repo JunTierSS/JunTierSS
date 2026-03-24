@@ -3,7 +3,7 @@
 **Industrial Civil Engineer & Master in Data Science**
 Universidad de Chile
 
-Currently working as a Data Scientist at **Grupo Falabella**
+Currently working as a Data Analyst at **Grupo Falabella**
 
 ---
 
