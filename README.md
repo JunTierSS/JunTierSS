@@ -43,7 +43,7 @@ I'm passionate about leveraging data to solve real-world problems from predictiv
 
 | Project | Description | Stack |
 |---|---|---|
-| [Brain Tumor Detection](https://github.com/JunTierSS/TesisProductivo) | Thesis — Brain tumor image classification using StyleGAN2 for data augmentation and CNN (ResNet50) with 5-fold cross-validation | Python, PyTorch |
+| [Brain Tumor Detection](https://github.com/JunTierSS/thesis-brain-tumor-stylegan2) | Thesis — Brain tumor image classification using StyleGAN2 for data augmentation and CNN (ResNet50) with 5-fold cross-validation | Python, PyTorch |
 | [Student Dropout Prediction](https://github.com/JunTierSS/Proyecto-Mineduc-Desercion-en-educacion-superior) | Predicting dropout rates in technical higher education using open MINEDUC data | Python, XGBoost |
 | MDS Coursework — [ML](https://github.com/JunTierSS/aprendizaje-de-maquinas) · [Data Science](https://github.com/JunTierSS/ciencia-de-datos) · [Programming Labs](https://github.com/JunTierSS/LabProgramacionMDS) | Classification, causal inference, econometrics, MLOps and forecasting | Python, R, Scikit-learn |
 | [DeFi Liquidation Risk Prediction](https://github.com/JunTierSS/proyecto-bci) | Predicting liquidation risk in DeFi protocols using on-chain wallet behavior and market indicators — AUC 0.90 | Python, XGBoost, LightGBM |
